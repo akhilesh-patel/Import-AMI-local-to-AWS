@@ -1,0 +1,12 @@
+[
+  {
+    "Description": "My Server OVA",
+    "Format": "ova",
+    "UserBucket": {
+        "S3Bucket": "export-bukcet-from-aws-akhil",
+        "S3Key": "ubuntu.ova"
+    }
+  }
+]
+
+
